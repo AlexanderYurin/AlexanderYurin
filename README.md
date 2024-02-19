@@ -8,7 +8,7 @@
 
 ---
 <!-- code gif-->
-<img align="right" alt="GIF" src="./giphy.gif" width="300"/>
+<img align="right" alt="GIF" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXJuNjBzYmNjaGt0dG1uZjhpN3Bhd2d1aHZldHo3cmh5Mnl6MjhobSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3KwliaH4MLtli8z7D/giphy.gif" width="300"/>
 ✨For 2 years now, I've been a backend developer. I started making computer scripts for games online, but I really like working on the backend of things. 
 
 I chose Python as the main language, I was attracted by its syntax, simplicity, and a huge library of different solutions, which I use repeatedly. I like Backend development because I can try different things, learn how the application works, and add my own ideas. My goal is to become a Senior Python Backend Developer in 5-6 years and make the world a better place!
