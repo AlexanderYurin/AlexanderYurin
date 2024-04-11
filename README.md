@@ -1,5 +1,5 @@
 <!-- Header -->
-<h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm Alex Yurin</h3>
+<h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hello there! Glad to see you on my page! I'm Alexander Yurin, a Python developer!</h3>
 
 <!-- Contacts -->
 
